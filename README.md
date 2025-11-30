@@ -7,6 +7,10 @@ creare fisier .env in backend cu continutul:
 MONGO_URI=mongodb+srv://<user>:<parola>@hackitall2025.bbiflkd.mongodb.net/?appName=hackitall2025
 
 
+### link util baza de date
+https://cloud.mongodb.com/v2/692c29a3a7488b775112aed9#/clusters/detail/hackitall2025
+
+
 ### backend
 cd backend
 python -m venv venv
